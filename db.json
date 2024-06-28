@@ -1,0 +1,131 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "CUANDO USAR LET, VAR, CONST?",
+        "categoria": "Frontend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNi3plUGHKr3MDDYXS5L6Cz8976gCZ9mWI3pTEQZMtqx906t-K0EeRRJrinDhgnY40lhkqssNMw39LLIxoG-LHUNkcFffg0hHHfLBK7dLXV1peRdiNzWl6ng5DeTtcr65dtfRRwk-8uKuYJ4gRoXWVLShifDnzWWqwf_XcPOz8hMt-QwvihnJS01BS6pw/s320/image1.png",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#15289a",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 2,
+        "titulo": "QUE ES JAVASCRIPT?",
+        "categoria": "Backend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqeY0YH5ksvA-uM0-cm9mBNoNBvDy6PcZ8lt1sJEAwXnv4p_5L0AMhyphenhyphenHvlcLwO13ulOoA1aDh6s7w8THFKBZtfIgHUYjrnPNIL-N7wpuY3phK1wNMvb4mY7Sd93V6ldAm4G_XqVSwtZgQZt6osAh9xhw1ICpNNoWS0T8qJ5raFsK618cetnI7K1JFVIjk/s320/image2.png",
+        "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#15289a",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 3,
+        "titulo": "EQUIPO FRONT END",
+        "categoria": "Frontend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc_PjNIzf4YoBWpOAc1WdxB7mzNz7GMoP_Ec-Qt8rScHp03q5ZlG2ZZzMWtzn2vgXq905vLs2UIJOW8-zq-Vsx3AWeIypWx6qx0qDgfanKkzjB7AtXBFqpQ2294PWSQkIk5H43x4ubv67lrgWQOTB2RTLU3FSCKWYGfJJY40LW0aij1X64ChjzPMoQiTa/s320/image3.png",
+        "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#15289a",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 4,
+        "titulo": "SPRING FRAMEWORK",
+        "categoria": "Backend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzj7XGxVsijMH5bkIydgbMH3ZbpcjXExFqy-U9Cdtcv5ZE-t4n6KPjpaUySa9mbBT-xlSw5LCbRSsIh8Xpor9eXgzTQs-9O5Ho-g4sKFvprdnNwIKHW6u-BrtKL35p8uNigEDQLRXNWInwkY1IMSiJjpmAupLJea7Qil9gihKXfpEtvNyveIsCb1cWa06q/s320/image4.png",
+        "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#402354",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 5,
+        "titulo": "QUE ES SQL Y NOSQL?",
+        "categoria": "Backend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGy3dKFaXyasywZ5zufsWyJRbDOIA5D8vmZ4W7kUvjzbP2maIvujyw9l7VxyfZ94eYJopXx_Ml0R-G5WznEhwc6BoL9Dtqdfa6ZYmK_0qoz2QRGjOGVVa3x_XB3HaVmGampNXlPLqCE_1DgwEBdZEM8a5-BwLuRJWD7HmnnDPRWA3fCEOPF5KZ93huESf-/s320/image5.png",
+        "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#402354",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 6,
+        "titulo": "CONOCE LOS ENUM",
+        "categoria": "Frontend",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidiX0Gjkk32emU_bhaOwA3zu3a-g7SyMsRu5AD1IoYTbqXWvpmkC0D5maZ1XMTl_iBXHkFy-WWnqDKurfLauEQBuiE1eKkS87h-YW9yFJYriH7CNmXnKmYgEWJ0Agb6ziRpU73RpYrVOn8IlLu3EwpdPxQOEGAVHShZeaz7eAW4Du-Qg_X0o7CDVCLPwpd/s320/image6.png",
+        "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#402354",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 7,
+        "titulo": "QUE SON LAS SOFTSKILLS?",
+        "categoria": "Innovación y Gestión",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg83fCd5jgYBX_DARZcUo6OVkbx-oSwGQdJWGgwJK6okJe5V7gfP8R-KHrED_ohPlelyXcjokSNaXQHjJ4TYidi5JFu12S5Mg0XIi26fcDQGkQ2jlXnqU3F9my5DklqzxKZI1G9AQ70dOsweF4P3wB4pB1EaCCRNEecU1jln1rGywCI-udekRhFgBy42_HB/s320/image7.png",
+        "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=13s",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#148d49",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 8,
+        "titulo": "LAS 7 SOFTSKILLS MAS DESEADAS",
+        "categoria": "Innovación y Gestión",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisn8vtZvSLH8F1qTT4jdYbE3bRiQlbwDw3hRasCixpPZMpSaVWraD2K72MMwNvuJZ-w7sRb7e439QsSW83V-vzbrB_Ry02eIEQChyB_v0nobU9I_8dsaUCKoLICzaEPmQkH4GfVE8Y8h6qiIR5HqMlLVIM5dVOC4kTOv3t_501X6bm-5_ryTd2nZgECRsm/s320/image8.png",
+        "video": "https://www.youtube.com/watch?v=_-9grhDhxiU",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#148d49",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      },
+      {
+        "id": 9,
+        "titulo": "METODOLOGÍA AGILES",
+        "categoria": "Innovación y Gestión",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwGFT9QJiRpFTotaAsBXKRIA6VppK6BwfVres0BK-OL6B-gjyHj0qG-33sR2u1OYqOWtqA8Xa_GJ4jHtzCmF5PQHQ75pWbKFXLupcJnkDYB9_x6VCv6W8nGN6ZnmXRKyiCajxgmhu0GUPzEfgEYd1Wny3izjSSBkrQ-vVDXvd87K-vbYymHl9-dGbbveOQ/s320/image9.png",
+        "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+        "visualizacion": "100k Visualizaciones",
+        "color": "#148d49",
+        "like": false,
+        "favorito": false,
+        "destacado": false
+      }
+    ],
+    "categorias": [
+      {
+        "id": "Frontend",
+        "nombre": "Frontend"
+      },
+      {
+        "id": "Backend",
+        "nombre": "Backend"
+      },
+      {
+        "id": "Innovación y Gestión",
+        "nombre": "Innovación y Gestión"
+      },
+      {
+        "nombre": "Javascript",
+        "color": "#000000",
+        "id": "tKxGdOP"
+      }
+    ]
+  }
