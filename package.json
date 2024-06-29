@@ -2,7 +2,7 @@
   "name": "pruebabackend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js",
     "start-json-server": "json-server --watch db.json --port 300"
